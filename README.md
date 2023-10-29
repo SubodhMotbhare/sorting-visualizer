@@ -21,3 +21,6 @@ Features:
   2.2) Data size ()
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
+
+
+![image](https://github.com/SubodhMotbhare/sorting-visualizer/assets/91254052/258df603-e7b3-4ebe-a9b9-5d36d82f65e2)
